@@ -11,29 +11,59 @@
       background-color: #f9f9f9;
       color: #333;
     }
+
     h1, h2, h3 {
       color: #0056b3;
     }
+
     h1 {
-      margin-bottom: 0rem;
+      margin-bottom: 0.2rem;
     }
+
     h2 {
       margin-top: 2rem;
     }
-    strong {
-      display: inline-block;
-      margin-bottom: 0rem;
+
+    .contact {
+      text-align: center;
     }
-    ul {
-      padding-left: 1.2rem;
+
+    .contact-block {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      text-align: center;
+    }
+
+    .contact-block p {
+      margin: 0;
+      font-weight: bold;
+    }
+
+    .contact-block a {
+      color: inherit;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    hr {
+      border: none;
+      height: 2px;
+      background-color: #ccc;
     }
   </style>
 </head>
 <body>
-
-  <h1>Mike Anderson</h1>
-  <h4><a href="mailto:mikeanderson12@yahoo.com">mikeanderson12@yahoo.com</a></h4>
-
+  <div class="contact">
+    <h1>Mike Anderson</h1>
+  </div>
+  <hr>
+  <div class="contact-block">
+    <p>St. Louis, MO</p>
+    <p>(314)-306-0043</p>
+    <p><a href="mailto:mikeanderson12@yahoo.com">mikeanderson12@yahoo.com</a></p>
+  </div>
   <h2>Summary</h2>
   <p>Senior Quality Assurance professional with over 10 years of expertise in testing within agile software development environments. Skilled in both manual and automated testing, with a proven ability to ensure software quality across web, mobile, and API platforms. A collaborative team player with excellent communication, organizational, and analytical skills, adaptability, and experience with AI adoption.</p>
 
@@ -90,6 +120,8 @@
      Master of Arts in Information Technology Management, 2012 (GPA: 3.86)</p>
   <p><strong>Southeast Missouri State University — Cape Girardeau, MO</strong><br>
      Bachelor of Science in Business Administration, 2000</p>
-
+  <br>
+  <a href="Mike-Anderson-Resume.pdf" target="_blank">Print</a>
+  <a href="Mike-Anderson-Resume.pdf" download style="margin-left: 1rem;">Download</a>
 </body>
 </html>
