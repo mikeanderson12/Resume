@@ -2,7 +2,7 @@
 
 ## Summary
 
-Senior Quality Assurance professional with over 10 years of expertise in testing within agile software development environments. Skilled in both manual and automated testing, with a proven ability to ensure software quality across web, mobile, and API platforms. A collaborative team player with excellent communication, organizational, and analytical skills, adaptability, and experience with AI adoption.
+Senior Quality Assurance professional with over 10 years of expertise in testing within agile software development environments. Skilled in both manual and automated testing, with a proven ability to ensure software quality across web, mobile, and API platforms. A collaborative team player with excellent communication, organizational, analytical, and problem-solving skills, experienced in AI adoption.
 
 ## Experience
 
